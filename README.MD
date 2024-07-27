@@ -76,7 +76,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
     <p>&nbsp&nbsp&nbspLuísDaniel <br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://avatars.githubusercontent.com/u/64800534?s=400&v=4">
+        href="https://github.com/LuisSilvaDaniel">
         GitHub
     </a>
     &nbsp;|&nbsp;
@@ -95,5 +95,3 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
