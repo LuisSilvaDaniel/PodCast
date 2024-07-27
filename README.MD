@@ -44,9 +44,9 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro preparado pessoalmente - sou jornalista -
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Leonardo.ai Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
